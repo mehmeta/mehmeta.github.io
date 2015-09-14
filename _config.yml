@@ -7,12 +7,12 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Mehmet Alkanlar
+title:            Mehmet
 tagline:          'A blog'
-description:      '.'
-baseurl:          https://mehmeta.github.io/
+url:              http://mehmet.me
+baseurl:          ""
 
 author:
-  name:           'Mehmet Alkanlar'
+  name:           'Mehmet'
 
 paginate:         5
